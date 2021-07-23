@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img alt="RocketShoes" src="https://github.com/carolferreiradev/hook-carrinho-de-compras-ignite/blob/master/public/git.png" width="100%">
+  <img alt="RocketShoes" src="https://github.com/carolferreiradev/hook-carrinho-de-compras-ignite/blob/master/public/git.webp" width="100%">
 </p>
 
 ## 💻 Projeto
